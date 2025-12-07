@@ -67,7 +67,7 @@ sudo a2dissite 000-default.conf
 sudo a2ensite balancer-http.conf
 sudo a2ensite balancer-https.conf
 
-# Reiniciar Apache
+# dependencias y configuracion de certbot
 sudo apt install certbot python3-certbot-apache -y
 sudo certbot --apache -d guillealfra.duckdns.org --agree-tos --email galvarezf04@iesalbarregas.es -n
 
