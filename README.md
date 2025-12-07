@@ -392,7 +392,7 @@ Solo el balanceador es accesible públicamente
 ## 9. URLs del Proyecto
 
 ### Repositorio GitHub
-`https://github.com/guillealv/wordpress-ha-aws`
+`https://github.com/guillealfra/aws_scripts_wp`
 
 ### Sitio WordPress
 `https://guillealfra.duckdns.org`
